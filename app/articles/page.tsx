@@ -40,10 +40,11 @@ export default function ArticleList() {
         <div className="flex justify-between items-center mb-12">
           <div>
             <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-2">
-              Baca Artikel / Berita Terupdate Disini
+              Baca Artikel Terupdate Disini
             </h1>
             <p className="text-slate-600">
-              {articles.length} artikel • Kelola dan bagikan cerita Anda
+              {articles.length} Maksimal 6 artikel per halaman. Temukan cerita
+              menarik lainnya di halaman berikutnya!
             </p>
           </div>
           <Link href="/articles/new">

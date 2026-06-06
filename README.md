@@ -25,8 +25,8 @@ Proyek ini dikembangkan untuk mendemonstrasikan:
 
 ### Home Page
 
-* Informasi perusahaan
 * Bagian tentang perusahaan
+* Visi & Misi
 * Landing page yang sederhana dan bersih
 
 ### Articles Page
@@ -36,8 +36,7 @@ Proyek ini dikembangkan untuk mendemonstrasikan:
 * Mengedit artikel yang sudah ada
 * Menghapus artikel
 * Melihat detail artikel
-* Unggah gambar utama (Featured image)
-* Pratinjau artikel
+* Upload Featured Image
 * Menampilkan tanggal pembuatan
 
 ### CRUD

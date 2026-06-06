@@ -43,8 +43,7 @@ export default function ArticleList() {
               Baca Artikel Terupdate Disini
             </h1>
             <p className="text-slate-600">
-              {articles.length} Maksimal 6 artikel per halaman. Temukan cerita
-              menarik lainnya di halaman berikutnya!
+              {articles.length} Maksimal 6 artikel per halaman.
             </p>
           </div>
           <Link href="/articles/new">
